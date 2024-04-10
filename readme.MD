@@ -1,19 +1,10 @@
-David Poiner
-S3579878
-COSC - Advanced Programming Techniques - Assignment 1
-
-Note:
-Late submission was permitted by Ali on 28/12/2022 for a new due date of the 08/01/2023.
-Email proof of this can be provided upon request.
+Created by David Poiner
 
 Breif:
 Implement a simplified algorithm for Path Planning, and use it with a simple simulated 2D robot moving around a room
 
 Tests: 
 Tests can be found in the 'testEnvs' folder and are labelled env1-10 with the .out file showing the solution to the shortest pathway to the Goal node. The tests progress in difficulty with 'env1.env' being the easiest and 'env10.env' beng the hardest.
-
-MileStones Attempted:
-Milestones 1-3 with milestone 3 only being partially implemented.
 
 Compiling code:
 
